@@ -33,7 +33,7 @@ Podemos *__misturar__* as marcações:
 
 ---
 
-Criar listas **numeradas**:
+## Criar listas **numeradas**:
 1. Teste01
 1. Teste02
    1. Teste02.1
@@ -44,7 +44,7 @@ Criar listas **numeradas**:
 
 <br/>
 
-Criar listas **demarcadas**:
+## Criar listas **demarcadas**:
 * Item 01
 * Item 02
    * Subitem 02
@@ -52,9 +52,9 @@ Criar listas **demarcadas**:
 * Item 03
 * Item 04
 
-<br/>
 
-Criar Lista de Tarefas: <br/>
+
+## Criar Lista de Tarefas:
 - [ ] Criar Logotipo <br/>
 - [x] Criar Site <br/>
 - [ ] Campanhas no Facebook <br/>
@@ -90,3 +90,8 @@ Destacando trechos de códigos: <br/>
 </body>
 </html>
 ```
+
+<br/>
+
+Colocar Emojis
+
