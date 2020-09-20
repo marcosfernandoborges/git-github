@@ -33,7 +33,7 @@ Podemos *__misturar__* as marcações:
 
 ---
 
-## Criar listas **numeradas**:
+### Criar listas **numeradas**:
 1. Teste01
 1. Teste02
    1. Teste02.1
@@ -44,7 +44,7 @@ Podemos *__misturar__* as marcações:
 
 <br/>
 
-## Criar listas **demarcadas**:
+### Criar listas **demarcadas**:
 * Item 01
 * Item 02
    * Subitem 02
@@ -54,7 +54,7 @@ Podemos *__misturar__* as marcações:
 
 
 
-## Criar Lista de Tarefas:
+### Criar Lista de Tarefas:
 - [ ] Criar Logotipo <br/>
 - [x] Criar Site <br/>
 - [ ] Campanhas no Facebook <br/>
@@ -62,12 +62,12 @@ Podemos *__misturar__* as marcações:
 
 <br/>
 
-Colocando Links: <br/>
+### Colocando Links: <br/>
 **[Acesse o canal do Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)**
 
 <br/>
 
-Criando Tabelas <br/>
+### Criando Tabelas <br/>
 
 Num | Nome | Nota
 --|--|--
@@ -80,7 +80,7 @@ Terminei a tabela.
 
 <br/>
 
-Destacando trechos de códigos: <br/>
+### Destacando trechos de códigos: <br/>
 
 ```
 <html>
@@ -93,5 +93,7 @@ Destacando trechos de códigos: <br/>
 
 <br/>
 
-Colocar Emojis
-
+### Colocar Emojis :smile:
+Para pegar os códigos, [clique aqui](https://github.com/ikatyang/emoji-cheat-sheet) :hand:
+<br/>
+Para colocar emojis nos títulos, deve-se copiar deste site -> [Emojipedia](https://emojipedia.org/)
