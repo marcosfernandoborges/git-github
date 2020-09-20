@@ -62,3 +62,31 @@ Criar Lista de Tarefas: <br/>
 
 <br/>
 
+Colocando Links: <br/>
+**[Acesse o canal do Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)**
+
+<br/>
+
+Criando Tabelas <br/>
+
+Num | Nome | Nota
+--|--|--
+1 | Fernando | 9,0
+2 | Giovana | 8,0
+3 | Aghata | 9,0
+4 | Lívia | 9,0
+
+Terminei a tabela.
+
+<br/>
+
+Destacando trechos de códigos: <br/>
+
+```
+<html>
+<head><title>Linguagem Markdown</title></head>
+<body>
+<h1> Teste da aula de Markdown </h1>
+</body>
+</html>
+```
